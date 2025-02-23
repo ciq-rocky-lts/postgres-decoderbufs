@@ -62,4 +62,4 @@ Just-in-time compilation support for %{name}.
 %changelog
 * Fri Oct 13 2023 Filip Janus <fjanus@redhat.com> - 2.4.0-1.Final
 - Initial import for postgresql 16 stream
-- Related: RHEL-3636
+- Related: RHEL-3635
